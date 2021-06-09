@@ -1,0 +1,24 @@
+{
+    "todos": [
+    {
+    "id":"1",
+    "codigo":"1",
+    "descripcion":"deposito central"
+    },
+    {
+    "id":"2",
+    "codigo":"2",
+    "descripcion":"deposito alterno"
+    },
+    {
+    "id":"3",
+    "codigo":"3",
+    "descripcion":"deposito tres"
+    },
+    {
+    "id":"4",
+    "codigo":"4",
+    "descripcion":"deposito cuatro"
+    }
+    ]
+   }
